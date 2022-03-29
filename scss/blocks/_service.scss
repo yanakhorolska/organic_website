@@ -1,0 +1,50 @@
+﻿#questions {
+  margin-top: 50px;
+}
+details > summary {
+  padding: 20px;
+  width: 900px;
+  background-color: white;
+  border: none;
+  border-radius: 16px;
+  box-shadow: 1px 1px 2px #09a66d;
+  cursor: pointer;
+  margin: 10px auto;
+  font-family: "Rosario", sans-serif;
+  font-size: 20px;
+}
+
+details > p {
+  background-color: white;
+  padding: 20px;
+  margin: 10px auto;
+  width: 900px;
+  border-radius: 16px;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  font-size: 20px;
+  font-family: "Rosario", sans-serif;
+}
+details > summary:hover {
+  background-color: #f3fbf8;
+}
+.questions-ask {
+  text-align: center;
+  font-size: 40px;
+  font-family: "Rosario", sans-serif;
+  margin-top: 30px;
+}
+.questions-submit {
+  display: block;
+  width: 250px;
+  margin: 30px auto 100px;
+  background-color: white;
+  border-radius: 16px;
+  padding: 20px;
+  font-size: 30px;
+  border: none;
+  box-shadow: 1px 1px 2px #09a66d;
+  cursor: pointer;
+}
+.questions-submit:hover {
+  background-color: #f3fbf8;
+}

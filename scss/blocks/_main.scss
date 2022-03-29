@@ -1,0 +1,238 @@
+﻿.organic {
+  height: 850px;
+  background-color: #f3fbf8;
+  position: relative;
+}
+.organic_head {
+  text-align: center;
+  font-family: "Rosario", sans-serif;
+  font-weight: 900;
+  font-size: 90px;
+  color: #222222;
+  padding-top: 88px;
+  margin: 0;
+}
+.organic_text {
+  font-family: "DM Sans", sans-serif;
+  font-size: 18px;
+  line-height: 30px;
+  text-align: center;
+  color: #555555;
+  padding: 17px 600px 40px;
+}
+.order_ellipse {
+  display: block;
+  position: relative;
+  margin: 0 10px;
+  background-color: #09a66d;
+  border-radius: 50px;
+  width: 64px;
+  height: 64px;
+}
+.order {
+  justify-content: center;
+  font-family: "DM Sans", sans-serif;
+}
+.order_arrow {
+  position: absolute;
+  left: 15px;
+  top: 25px;
+}
+.order_ellipse:hover {
+  background-color: #2e8b57;
+}
+
+.statistic_image {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 30px;
+}
+.vegetables {
+  position: absolute;
+  top: 385px;
+  left: 155px;
+}
+.leaves_first {
+  position: absolute;
+  top: -50px;
+  left: 40px;
+}
+#the_best {
+  height: 1057px;
+  position: relative;
+}
+.the_best_slider {
+  width: 600px;
+  margin-bottom: 60px;
+}
+.the_best_head {
+  font-family: "Rosario", sans-serif;
+  font-weight: 900;
+  font-size: 90px;
+  color: #222222;
+  margin-top: 125px;
+}
+.the_best_text {
+  font-size: 18px;
+  font-family: "Rosario", sans-serif;
+  color: #555555;
+  line-height: 30px;
+  padding: 50px 800px 56px 0px;
+}
+.the_best_slider_img {
+  position: relative;
+  background-color: #f3fbf8;
+  border-radius: 50px;
+  width: 70px;
+  height: 70px;
+  margin: 30px;
+}
+.the_best_slider_img_center {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+}
+.the_best_slider_text {
+  font-family: "DM Sans", sans-serif;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  color: #555555;
+}
+.the_best_slider_header {
+  font-family: "DM Sans", sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  color: #222222;
+}
+.the_best_slider:hover {
+  background-color: #f3fbf8;
+}
+.arrow_down {
+  margin-left: 300px;
+}
+.line_img {
+  position: absolute;
+  top: -170px;
+  right: 50px;
+}
+.funny_man {
+  position: absolute;
+  top: 320px;
+  right: 200px;
+}
+.explor {
+  height: 832px;
+  background: #f3fbf8;
+  position: relative;
+}
+.explor_head {
+  font-family: "Rosario", sans-serif;
+  font-weight: bold;
+  font-size: 90px;
+  line-height: 90px;
+  color: #222222;
+  padding-bottom: 20px;
+}
+.explor_block {
+  padding: 100px 150px 150px 120px;
+}
+.explor_descr {
+  padding-left: 60px;
+  padding-top: 30px;
+}
+.explor_text {
+  font-family: "DM Sans", sans-serif;
+  font-size: 18px;
+  line-height: 30px;
+  color: #555555;
+  padding-bottom: 30px;
+}
+.order_explor {
+  font-family: "DM Sans", sans-serif;
+}
+.explor_leaves {
+  position: absolute;
+  right: 70px;
+  top: 400px;
+}
+.customers {
+  height: 715px;
+}
+.customers_descr {
+  padding: 113px 80px 150px 0;
+}
+.customers_head {
+  font-family: "Rosario", sans-serif;
+  color: #222222;
+  font-weight: bold;
+  font-size: 90px;
+  padding-bottom: 20px;
+}
+.customers_text {
+  font-family: "DM Sans", sans-serif;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 30px;
+  color: #555555;
+  padding-bottom: 50px;
+}
+.customers_second_head {
+  font-family: "DM Sans", sans-serif;
+  font-weight: 500;
+  font-size: 30px;
+  color: #222222;
+  padding-bottom: 20px;
+}
+.customers_stars {
+  display: block;
+}
+.customer_arrows {
+  padding-left: 480px;
+}
+.customer_arrow_first {
+  margin-right: 30px;
+}
+.customers_img {
+  position: relative;
+}
+.customers_ahmed {
+  position: absolute;
+  bottom: 10px;
+}
+.phones {
+  height: 730px;
+}
+.phones_block {
+  margin: 150px 400px 300px 300px;
+}
+.phones_descr {
+  padding-left: 150px;
+}
+.phones_download {
+  background-color: #f3fbf8;
+  border-radius: 8px;
+  width: 140px;
+  height: 40px;
+  text-align: center;
+  padding-top: 8px;
+  font-family: "DM Sans", sans-serif;
+  font-size: 18px;
+  color: #333333;
+  padding-bottom: 16px;
+}
+.phones_head {
+  font-family: "Rosario", sans-serif;
+  font-weight: bold;
+  font-size: 70px;
+  color: #222222;
+  padding-bottom: 20px;
+}
+.phones_text {
+  font-family: "DM Sans", sans-serif;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 30px;
+  color: #555555;
+  padding-bottom: 50px;
+}
